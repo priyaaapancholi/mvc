@@ -1,0 +1,164 @@
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\obj\Debug\MVCdemo.csprojResolveAssemblyReference.cache
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\ApplicationInsights.config
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\csc.exe
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\vbc.exe
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\MVCdemo.dll.config
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\MVCdemo.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\MVCdemo.pdb
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Antlr3.Runtime.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\EntityFramework.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\EntityFramework.SqlServer.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.Web.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Newtonsoft.Json.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Owin.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Helpers.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Mvc.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Optimization.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Razor.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\WebGrease.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.Web.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Helpers.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Mvc.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Optimization.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.Razor.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Antlr3.Runtime.pdb
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Newtonsoft.Json.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\EntityFramework.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\EntityFramework.SqlServer.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\obj\Debug\MVCdemo.dll
+C:\Users\priya\Source\Repos\NewRepo\MVCdemo\MVCdemo\obj\Debug\MVCdemo.pdb
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\ApplicationInsights.config
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\csc.exe
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\vbc.exe
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\MVCdemo.dll.config
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\MVCdemo.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\MVCdemo.pdb
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Antlr3.Runtime.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\EntityFramework.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\EntityFramework.SqlServer.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.Web.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Newtonsoft.Json.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Owin.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Helpers.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Mvc.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Optimization.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Razor.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\WebGrease.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.Web.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Helpers.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Mvc.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Optimization.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.Razor.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Antlr3.Runtime.pdb
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Newtonsoft.Json.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\EntityFramework.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\EntityFramework.SqlServer.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\obj\Debug\MVCdemo.csprojResolveAssemblyReference.cache
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\obj\Debug\MVCdemo.dll
+C:\Users\priya\Documents\Visual Studio 2015\Projects\MVCdemo\MVCdemo\obj\Debug\MVCdemo.pdb
