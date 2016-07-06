@@ -25,11 +25,11 @@ namespace mvc.Controllers
         public ActionResult DisplayCustomer()
         {
             DemoModel dm = new DemoModel();
-              dm.customer_id =Convert.ToInt16( Request.Form["cid"]);
+            dm.customer_id =Convert.ToInt16( Request.Form["cid"]);
               dm.customer_name = Request.Form["cn"];
-              dm.customer_amount =Convert.ToDouble( Request.Form["camt"]);
+             dm.customer_amount =Convert.ToDouble( Request.Form["camt"]);
             
-            return View();
+            return View(dm);
         }
     }
 }
