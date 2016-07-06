@@ -29,7 +29,7 @@ namespace mvc.Controllers
               dm.customer_name = Request.Form["cn"];
              dm.customer_amount =Convert.ToDouble( Request.Form["camt"]);
             
-            return View(dm);
+            return View(xyzzzzzzzzzzzzzzzzzzzzzzzz);
         }
     }
 }
